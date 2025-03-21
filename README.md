@@ -2,7 +2,7 @@
 Machine Learning to make a Piano Tiles Generation software
 
 
-PIANO_TILES_ML/
+PIANO_TILES_ML/ \n
 │── data/
 │   ├── example.mid          # Sample MIDI file
 │   ├── example.wav          # Sample audio file
